@@ -2,6 +2,9 @@
 
 Project is only possible due to the excellent work of the following collaborators:
 
-<table><tbody><tr><th align="left">Omer Khan</th><td><a href="https://github.com/oklodhi">GitHub/oklodhi</a></td></tr>
-<tr><th align="left">Name Last</th><td><a href="https://github.com/username">GitHub/username</a></td></tr>
+
+<table><tbody>
+<tr><th align="left">Name</th><th align="left">GitHub Username</a></th></tr>
+<tr><td>Omer Khan<td><a href="https://github.com/oklodhi">GitHub/oklodhi</a></td></tr>
+<tr><td>Jarar Bangash<td><a href="https://github.com/jarar14">GitHub/Jarar14</a></td></tr>
 </tbody></table>
